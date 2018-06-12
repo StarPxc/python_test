@@ -60,4 +60,4 @@ def start(sum,word):#下载图片的总数，关键字
         download_img(sum,i,word, img_list)
     print("下载完成")
 if __name__ == '__main__':
-      start(2018,"新年快乐")
+      start(2018,"邮票")

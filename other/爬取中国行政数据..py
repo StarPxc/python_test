@@ -1,7 +1,8 @@
 """
  @Author 浦希成
  @Date 2018-8-9
- @Description 中国行政规划数据
+ @Description 中国行政规划数据 （写完代码之后发现qq的安卓文件中有这么一个关于中国各个省份城市的文件，
+ 亏我还找了大半天，写了好久的代码）
 
 """
 import pickle
